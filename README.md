@@ -2,8 +2,7 @@
 
 Replication repository for the article submitted to the *Revista Pesquisa e Planejamento Econômico* (Institute of Applied Economic Research — IPEA) special issue on the Economics of Crime in Brazil.
 
-> **Citation:** Lavandoski da Silva, Luiz Gustavo. "The dark figure of cybercrime: underreporting patterns in Brazilian phishing incidents based on CERT.br data (2016–2025)." *Revista Pesquisa e Planejamento Econômico* (under review).
-
+> > **Citation:** Lavandoski da Silva, Luiz Gustavo. "The dark figure of cybercrime: underreporting patterns in Brazilian phishing incidents based on CERT.br data (2016–2025)." *Revista Pesquisa e Planejamento Econômico* (under review). Replication data and scripts: https://doi.org/10.5281/zenodo.20692595
 ---
 
 ## Overview
